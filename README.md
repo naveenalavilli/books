@@ -7,6 +7,6 @@ Note: This is a public repository and no responsibility is assumed over Copyrigh
 
 
 # Contribute
-Fork this project
-Update Index.html
-Create a pull request.
+* Fork this project
+* Update Index.html
+* Create a pull request.
