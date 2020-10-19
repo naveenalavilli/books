@@ -15,7 +15,8 @@ No responsibility is assumed over copyright or any other issues.
 This website uses Bootstrap 4.0 , for aesthetics. Please use the List component like below to add your book.
 
 * For new category of books
-      '''html
+      ```html
+      <pre>
        <div class="card mb-5">
           <div class="card-header">
             <h4>BOOK CATEGORY</h4>
@@ -29,14 +30,17 @@ This website uses Bootstrap 4.0 , for aesthetics. Please use the List component 
             </li>
           </ul>
         </div>
-        '''
+        </pre>
+        ```
         
 * For existing Category , just add a List Item          
-          '''html
+          ```html
+          <pre>
           <li class="list-group-item">
               <a href=" LINK TO BOOK " target="_blank">
                 <Book Name>
               </a>
               <span class="text-muted text-right"> - AUTHOR NAME</span>
             </li>
-            '''
+            </pre>
+            ```
