@@ -32,7 +32,8 @@ This website uses Bootstrap 4.0 , for aesthetics. Please use the List component 
         </div>
         ```
         
-* For existing Category , just add a List Item          
+* For existing Category , just add a List Item      
+
           ```
           <li class="list-group-item">
               <a href=" LINK TO BOOK " target="_blank">
